@@ -132,7 +132,8 @@ Among all the machine learning algorithms evaluated, **Logistic Regression achie
 
 ---
 
-## 📸 Application Screenshot http://localhost:8501/
+## 📸 Application Screenshot
+http://localhost:8501/
 
 (Add screenshots of your Streamlit app here)
 
